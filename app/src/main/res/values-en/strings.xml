@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guide</string>
+    <string name="homebtn_resto">Book a restaurant</string>
+    <string name="homebtn_hotel">Book an hotel</string>
+    <string name="homebtn_top"><b>Hotels and restaurants</b>\nAll the best hotels and restaurants around you</string>
+</resources>
